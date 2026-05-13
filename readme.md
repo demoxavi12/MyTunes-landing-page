@@ -19,6 +19,9 @@ The project features a modern UI, smooth layout, and responsive design inspired 
 
 ## Preview
 
+![MyTunes Preview](img/Screenshot_14-5-2026_5227_bradtraversy.github.io.jpeg)
+![MyTunes Preview](img/Screenshot_14-5-2026_5333_bradtraversy.github.io.jpeg)
+
 ## Author
 
 Swaraj Xavier
